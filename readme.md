@@ -8,6 +8,14 @@ The live site hooks into a CodeIgniter backend through a RESTful API. This
 API communication code has been omitted from this repository, making this
 a clean, usable, and standalone WordPress theme.
 
+### Homepage ###
+
+![Front-end Homepage Design](design/homepage.png)
+
+### Content ###
+
+![Front-end Subpage Design](design/content.png)
+
 
 License
 ================================================================================
